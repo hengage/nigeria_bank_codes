@@ -19,7 +19,6 @@ AUTHOR = 'Devjoseph'
 REQUIRES_PYTHON = '>=3.7.9'
 VERSION = '0.0.1'
 
-
 REQUIRED = [
     # 'requests', 'maya', 'records',
 ]

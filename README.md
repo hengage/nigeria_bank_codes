@@ -7,7 +7,7 @@ The Nigeria bank code is a basic python package that returns details of particul
 
 You can install Nigeria bank codes from [PyPI](https://pypi.org/project/nigeria_bank_codes/):
 
-    pip install nigeria_bank_codes
+    pip install nigeria-bank-codes
 
 
 
